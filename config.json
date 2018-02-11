@@ -1,0 +1,5 @@
+{
+    "dbUrl":"mongodb://localhost:27017/sportBoardDb",
+    "dbUserName":"vaibhavpfatkal@gmail.com",
+    "dbPassword":"vaibhav71188"
+}
